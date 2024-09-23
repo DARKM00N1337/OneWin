@@ -10,7 +10,7 @@ CHAT_ID = '22803822' # Your telegram id
 ACC_DELAY = [5, 15]
 
 # тип прокси
-PROXY_TYPE = "socks5" # http/socks5
+PROXY_TYPE = "http" # http/socks5
 
 # папка с сессиями (не менять)
 WORKDIR = "sessions/"
